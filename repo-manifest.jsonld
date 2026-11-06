@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/coherent-oss/pytest-ignore-flaky/commit/be6428645ce2204dc1583056ffa6104ee65bc318",
       "git:hexsha": "be6428645ce2204dc1583056ffa6104ee65bc318",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/coherent-oss/pytest-ignore-flaky/commit/16d6e28fc7c3e61a5f948ef31750cb32a437da75",
