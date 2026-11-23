@@ -3,6 +3,11 @@
   "repo": "pytest-ignore-flaky",
   "versions": [
     {
+      "commit": "edfb155cf9bae93ae8c765c67e83ffee6e34c5ea",
+      "tag": "v2.2.1",
+      "parsed_at": "2026-11-23T05:40:25.334852+00:00"
+    },
+    {
       "commit": "be6428645ce2204dc1583056ffa6104ee65bc318",
       "tag": "",
       "parsed_at": "2026-11-06T03:09:27.939244+00:00"
